@@ -1,11 +1,3 @@
-# Hi there!
-
-## 💫 About Me:
-I'm newbie dotnet developer from Russia<br>
-I'm currently learning [``ASP.Net Core``](https://github.com/dotnet/aspnetcore), [``Blazor``](https://github.com/dotnet/blazor)<br>
-for full stack C# development
-
-
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
