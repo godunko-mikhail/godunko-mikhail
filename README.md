@@ -16,6 +16,6 @@ I'm Mikhail. 17y.o. Dotnet backend developer and DevOps.<br>Now I work for [Umap
 ![Github Actions](https://img.shields.io/badge/github%20action-%2320232a.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Gitlab ci/cd](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=godunko-mikhail&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=godunko-mikhail&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=godunko-mikhail&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## My homelab:
+![](https://raw.githubusercontent.com/godunko-mikhail/godunko-mikhail/main/PXL_20240411_163152685.MP.jpg)
