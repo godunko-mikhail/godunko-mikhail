@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mikhail. 16y.o. Dotnet backend developer and DevOps.<br>Now I work for [Umap](https://umap.world/) company.<br>Interested in bare metal kubernetes and utilities for it
+I'm Mikhail. 17y.o. Dotnet backend developer and DevOps.<br>Now I work for [Umap](https://umap.world/) company.<br>Interested in bare metal kubernetes and utilities for it
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/560005608946794504) 
 [![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/MikhailGodunko) 
